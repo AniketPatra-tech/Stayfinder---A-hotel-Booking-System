@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+/* Stayfinder Global Styles */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+}
